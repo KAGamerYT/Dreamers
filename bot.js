@@ -35,7 +35,7 @@ var ti={}
 
 client.on('ready', function(){
     var ms = 60000 ;
-    var setGame = ['^اhelp','Type ^help','Dreamers'];
+    var setGame = ['^help','Type ^help','Dreamers'];
     var i = -1;
     var j = 0;
     setInterval(function (){
